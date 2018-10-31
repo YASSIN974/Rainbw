@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const fs = require("fs");
 const ownerid = '332713449215754242'
 client.colors = {}
-const prefix = "-"
+const prefix = "1"
 //let rainbow = 0;
  
  client.on("ready", async () => {
