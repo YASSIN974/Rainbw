@@ -57,7 +57,7 @@ const prefix = "1"
  
  
 client.on('message', message => {
-    var prefix = "*"
+    var prefix = "R"
   if (message.author.x5bz) return;
   if (!message.content.startsWith(prefix)) return;
  
