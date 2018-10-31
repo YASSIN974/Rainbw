@@ -53,7 +53,7 @@ const prefix = "*"
             place++;
         }
         //Every 10 seconds change it
-    }, 500)
+    }, 90)
  
  
 client.on('message', message => {
